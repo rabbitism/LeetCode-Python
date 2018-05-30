@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace CSharp
 {
@@ -6,7 +8,14 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Solution solution = new Solution();
+            int[] nums = {2,7,11,15};
+            Timer.Start();
+            var result = solution.TwoSum(nums, 9);
+            Timer.Stop();
+            Printer.PrintArray(result);
+            
         }
     }
 }
