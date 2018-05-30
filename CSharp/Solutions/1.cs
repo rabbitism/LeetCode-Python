@@ -13,7 +13,6 @@ namespace CSharp{
                 for(int j=i+1;j<nums.Length;j++){
                     if(nums[i]+nums[j]==target)
                         result = new int[]{i,j};
-                
                 }
             }
             return result;
