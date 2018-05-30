@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace CSharp{
     public static class Printer{
 
-        public static void PrintList<T>(List<T> list){
+        public static void Print<T>(List<T> list){
             if(list == null){
                 Console.WriteLine("Empty List.");
             }
@@ -17,7 +17,7 @@ namespace CSharp{
             
         }
 
-        public static void PrintDictionary<TKey,TValue>(Dictionary<TKey,TValue> dictionary){
+        public static void Print<TKey,TValue>(Dictionary<TKey,TValue> dictionary){
             if(dictionary == null){
                 Console.WriteLine("Empty Dictionary.");
             }
@@ -29,7 +29,7 @@ namespace CSharp{
             }
         }
         
-        public static void PrintArray<T>(T[] array){
+        public static void Print<T>(T[] array){
             if(array == null){
                 Console.WriteLine("Empty Array.");
             }

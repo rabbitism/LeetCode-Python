@@ -14,8 +14,7 @@ namespace CSharp
             Timer.Start();
             var result = solution.TwoSum(nums, 9);
             Timer.Stop();
-            Printer.PrintArray(result);
-            
+            Printer.Print(result);
         }
     }
 }
