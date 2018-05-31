@@ -1,8 +1,8 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 
-namespace CSharp{
+namespace CSharp
+{
     public static class Printer{
 
         public static void Print<T>(List<T> list){

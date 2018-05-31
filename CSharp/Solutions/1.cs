@@ -1,7 +1,5 @@
-using System;
-using System.Collections;
-
-namespace CSharp{
+namespace CSharp
+{
 
     public partial class Solution{
 
