@@ -41,5 +41,9 @@ namespace CSharp
             
         }
 
+        public static void Print<T>(T num){
+            Console.WriteLine(num);
+        }
+
     }
 }

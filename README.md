@@ -9,3 +9,4 @@ Python environment: Python 3.6
 |:---|:---|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[001](/CSharp/Solutions/1.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[035](/CSharp/Solutions/35.cs)|Pending|
+|594|[Search Insert Position](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[594](/CSharp/Solutions/594.cs)|Pending|
