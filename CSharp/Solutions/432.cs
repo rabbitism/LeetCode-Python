@@ -37,6 +37,7 @@ namespace CSharp{
                 else{
                     dictionary[key]-=1;
                     tracker[dictionary[key]+1].Remove(key);
+                    if(!tracker.ContainsKey(dictionary[key])) tracker.Add(dictionary[key], new List<string>());
                     tracker[dictionary[key]].Add(key);
                     if(tracker[dictionary[key]+1].Count==0) tracker.Remove(dictionary[key]+1);
                 }
