@@ -8,11 +8,19 @@ namespace CSharp
         {
             
             Solution solution = new Solution();
-            int[] nums = {1,3,2,2,5,2,3,7};
+            int[] nums = {1,2,2,4};
             Timer.Start();
-            var result = solution.FindLHS(nums);
+            //var result = solution.FindErroNums(nums);
+            AllOne obj = new AllOne();
+            obj.Inc("hello");
+            obj.Inc("hello");
+            Printer.Print(obj.GetMaxKey());
+            Printer.Print(obj.GetMinKey());
+            obj.Inc("leet");
+            Printer.Print(obj.GetMaxKey());
+            Printer.Print(obj.GetMinKey());
             Timer.Stop();
-            Printer.Print(result);
+            //Printer.Print(result);
         }
     }
 }

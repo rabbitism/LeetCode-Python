@@ -6,6 +6,7 @@ namespace CSharp{
     public partial class Solution{
 
         public int FindLHS(int[] nums){
+            //Use HashMap(dictionary)
             
             Dictionary<int, int> dictionary = new Dictionary<int, int>();
             foreach(var number in nums){
