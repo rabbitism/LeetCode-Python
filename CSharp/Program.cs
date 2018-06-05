@@ -9,11 +9,12 @@ namespace CSharp
             
             Solution solution = new Solution();
             Timer.Start();
+            string[] words = {"gin", "zen", "gig", "msg"};
 
-            var result = solution.NumJewelsInStones("aA", "aAAbbbb");
+            var result = solution.UniqueMorseRepresentations(words);
 
             Printer.Print(result);
-
+        
             Timer.Stop();
         }
     }
