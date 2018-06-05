@@ -10,7 +10,7 @@ namespace CSharp
             Solution solution = new Solution();
             Timer.Start();
 
-            var result = solution.CountBinarySubstrings("00110");
+            var result = solution.NumJewelsInStones("aA", "aAAbbbb");
 
             Printer.Print(result);
 

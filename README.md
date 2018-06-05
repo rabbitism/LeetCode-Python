@@ -17,4 +17,5 @@ Python environment: Python 3.6
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[TLE](/CSharp/Solutions/739.cs)|Pending|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Medium|[TLE](/CSharp/Solutions/739.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
