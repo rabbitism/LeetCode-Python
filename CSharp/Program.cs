@@ -9,8 +9,16 @@ namespace CSharp
             
             Solution solution = new Solution();
             Timer.Start();
-            var result = solution.JudgeSquareSum(2147483646);
-            Printer.Print(result);
+
+            MinStack obj = new MinStack();
+            obj.Push(-2);
+            obj.Push(0);
+            obj.Push(-3);
+            Printer.Print(obj.GetMin());
+            obj.Pop();
+            Printer.Print(obj.Top());
+            Printer.Print(obj.GetMin());
+
             Timer.Stop();
         }
     }
