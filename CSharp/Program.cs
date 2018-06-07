@@ -7,17 +7,34 @@ namespace CSharp
         static void Main(string[] args)
         {
             
+            #region Instances
             Solution solution = new Solution();
             Timer timer = new Timer();
-            timer.Start();
+
+            #endregion
+
+
+            #region Variable Declarations
             string[] words = {"gin", "zen", "gig", "msg"};
 
-            var result = solution.UniqueMorseRepresentations(words);
-            timer.Stop();
+            #endregion
 
+            timer.Start();
+
+            var result = solution.UniqueMorseRepresentations(words);
+
+
+
+
+            #region End Timer
+            timer.Stop();
+            #endregion
+
+            #region Print Result
             Printer.Print(result);
 
             timer.Result();
+            #endregion
         }
     }
 }
