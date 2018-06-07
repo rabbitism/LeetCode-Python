@@ -8,14 +8,16 @@ namespace CSharp
         {
             
             Solution solution = new Solution();
-            Timer.Start();
+            Timer timer = new Timer();
+            timer.Start();
             string[] words = {"gin", "zen", "gig", "msg"};
 
             var result = solution.UniqueMorseRepresentations(words);
+            timer.Stop();
 
             Printer.Print(result);
-        
-            Timer.Stop();
+
+            timer.Result();
         }
     }
 }
