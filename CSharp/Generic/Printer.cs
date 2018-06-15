@@ -57,6 +57,20 @@ namespace CSharp
             
         }
 
+        public static void Print<T>(T[,] array){
+            if(array==null){
+                Console.WriteLine("Empty Array.");
+            }
+            else{
+                for(int i = 0; i < array.GetLength(0); i++){
+                    for(int j = 0; j < array.GetLength(1); j++){
+                        Console.Write(array[i,j]+"\t");
+                    }
+                    Console.Write("\n");
+                }
+            }
+        }
+
         public static void Print<T>(T num){
             Console.WriteLine(num);
         }
