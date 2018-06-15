@@ -22,7 +22,7 @@ namespace CSharp
             Timer.Stop();
             #endregion
 
-            #region Print Result
+            
             Printer.Print(result);
         
             
