@@ -9,9 +9,9 @@ namespace CSharp
             
             Solution solution = new Solution();
             Timer.Start();
-            string[] words = {"gin", "zen", "gig", "msg"};
+            int[] input = {1,2,3};
 
-            var result = solution.UniqueMorseRepresentations(words);
+            var result = solution.MinMoves2(input);
 
             Printer.Print(result);
         
