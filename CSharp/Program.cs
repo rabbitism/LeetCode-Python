@@ -9,13 +9,14 @@ namespace CSharp
             
             Solution solution = new Solution();
             Timer.Start();
-            int[] input = {1,2,3};
+            int[] input = {-1,0,1,2,-1,-4};
 
-            var result = solution.MinMoves2(input);
+            var result = solution.ThreeSum(input);
+            Timer.Stop();
 
             Printer.Print(result);
         
-            Timer.Stop();
+            
         }
     }
 }

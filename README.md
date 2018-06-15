@@ -8,6 +8,7 @@ Python environment: Python 3.6
 |ID|Problem|Difficulty|C#|Python|
 |:---|:---|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[Accepted](/CSharp/Solutions/1.cs)|Pending|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/)|Easy|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|

@@ -11,10 +11,26 @@ namespace CSharp
             }
             else{
                 foreach(T item in list){
-                    Console.WriteLine(item);
+                    Print(item);
                 }
             }
-            
+        }
+
+        public static void Print<T>(IList<IList<T>> list){
+            if(list == null){
+                Console.WriteLine("Empty List.");
+            }
+            else{
+                foreach(var item in list){
+                    if(item==null) Console.Write("Empty List");
+                    else{
+                        foreach(var subitem in item){
+                            Console.Write(subitem+"\t");
+                        }
+                    }
+                    Console.WriteLine();
+                }
+            }
         }
 
         public static void Print<TKey,TValue>(Dictionary<TKey,TValue> dictionary){
