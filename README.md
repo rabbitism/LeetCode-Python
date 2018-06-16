@@ -28,5 +28,7 @@ Python environment: Python 3.6
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[TLE](/CSharp/Solutions/739.cs)|Pending|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[Accepted](/CSharp/Solutions/771.cs)|Pending|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/779.cs)|Pending|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|Easy|[Accepted](/CSharp/Solutions/804.cs)|Pending|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|Medium|[Accepted](/CSharp/Solutions/807.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
