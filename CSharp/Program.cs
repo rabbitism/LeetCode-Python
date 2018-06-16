@@ -7,22 +7,20 @@ namespace CSharp
         static void Main(string[] args)
         {
             
-            #region Instances
             Solution solution = new Solution();
-            Timer.Start();
+            Timer timer = new Timer();
+            timer.Start();
             int[] input = {-1,0,1,2,-1,-4};
 
             var result = solution.ThreeSum(input);
-            Timer.Stop();
+
 
 
 
 
             #region End Timer
-            Timer.Stop();
-            #endregion
-
-            
+            timer.Stop();
+            #endregion 
             Printer.Print(result);
         
             

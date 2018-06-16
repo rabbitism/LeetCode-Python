@@ -8,7 +8,7 @@ Python environment: Python 3.6
 |ID|Problem|Difficulty|C#|Python|
 |:---|:---|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[Accepted](/CSharp/Solutions/1.cs)|Pending|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/)|Easy|[Accepted](/CSharp/Solutions/15.cs)|Pending|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/)|Medium|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
@@ -18,6 +18,7 @@ Python environment: Python 3.6
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|Medium|[Accepted](/CSharp/Solutions/462.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
