@@ -10,14 +10,15 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = 12;
+            var input = "abc";
 
-            var result = solution.MinSteps(input);
+            var result = solution.FindSubstringInWraproundString(input);
 
             #region End Timer
             timer.Stop();
             #endregion 
             Printer.Print(result);
+            timer.Result();
         
             
         }
