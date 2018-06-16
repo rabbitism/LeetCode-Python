@@ -10,13 +10,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            int[] input = {-1,0,1,2,-1,-4};
+            var input = 12;
 
-            var result = solution.ThreeSum(input);
-
-
-
-
+            var result = solution.MinSteps(input);
 
             #region End Timer
             timer.Stop();

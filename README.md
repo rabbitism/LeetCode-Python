@@ -12,7 +12,9 @@ Python environment: Python 3.6
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|Easy|[Accepted](/CSharp/Solutions/137.cs)|Pending|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Easy|[Accepted](/CSharp/Solutions/155.cs)|Pending|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/208.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
@@ -21,6 +23,7 @@ Python environment: Python 3.6
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
+|650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[TLE](/CSharp/Solutions/739.cs)|Pending|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[Accepted](/CSharp/Solutions/771.cs)|Pending|
