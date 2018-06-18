@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CSharp
 {
@@ -10,13 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            int[] a = { 3,0,8,4};
-            int[] b = { 2,4,5,7};
-            int[] c = { 9,2,6,3};
-            int[] d = { 0,3,1,0};
-            var input = new int[4][]{ a, b,c,d};
+            var input = 9;
 
-            var result = solution.MaxIncreaseKeepingSkyline(input);
+            IList<int> result = solution.GetRow(input);
 
             #region End Timer
             timer.Stop();

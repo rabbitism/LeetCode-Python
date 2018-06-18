@@ -16,6 +16,19 @@ namespace CSharp
             }
         }
 
+        public static void Print<T>(IList<T> list){
+            if(list == null){
+                Console.WriteLine("Empty List.");
+            }
+            else{
+                foreach(T item in list){
+                   Console.Write(item);
+                   Console.Write("\t");
+                }
+            }
+            Console.WriteLine();
+        }
+
         public static void Print<T>(IList<IList<T>> list){
             if(list == null){
                 Console.WriteLine("Empty List.");
