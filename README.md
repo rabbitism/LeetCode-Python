@@ -11,6 +11,7 @@ Python environment: Python 3.6
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|Easy|[Accepted](/CSharp/Solutions/14.cs)|Pending|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/)|Medium|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|[Time Limit Exceeded](/CSharp/Solutions/119.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
@@ -23,6 +24,7 @@ Python environment: Python 3.6
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|Medium|[Accepted](/CSharp/Solutions/462.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|Easy|[Accepted](/CSharp/Solutions/492.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
