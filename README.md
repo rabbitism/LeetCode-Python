@@ -8,6 +8,7 @@ Python environment: Python 3.6
 |ID|Problem|Difficulty|C#|Python|
 |:---|:---|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[Accepted](/CSharp/Solutions/1.cs)|Pending|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|Medium|[Accepted](/CSharp/Solutions/3.cs)|Pending|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|Easy|[Accepted](/CSharp/Solutions/14.cs)|Pending|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/)|Medium|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
@@ -17,6 +18,7 @@ Python environment: Python 3.6
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|Easy|[Accepted](/CSharp/Solutions/137.cs)|Pending|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Easy|[Accepted](/CSharp/Solutions/155.cs)|Pending|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|Easy|[Accepted](/CSharp/Solutions/204.cs)|Pending|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/208.cs)|Pending|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
