@@ -11,7 +11,7 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = 30;
+            var input = 60;
 
             var result = solution.CountAndSay(input);
             
