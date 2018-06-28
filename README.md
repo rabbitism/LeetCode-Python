@@ -25,11 +25,13 @@ Python environment: Python 3.6
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Hard|[Accepted](/CSharp/Solutions/413.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|Medium|[Accepted](/CSharp/Solutions/462.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|Easy|[Accepted](/CSharp/Solutions/482.cs)|Pending|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|Easy|[Accepted](/CSharp/Solutions/492.cs)|Pending|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[Accepted](/CSharp/Solutions/496.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|

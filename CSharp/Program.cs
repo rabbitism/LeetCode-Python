@@ -11,10 +11,10 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = "5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w";
+            var nums1 = new int[]{1,3,5,2,4};
+            var nums2 = new int[]{6,5,4,3,2,1,7};
 
-            var result = solution.LicenseKeyFormatting(input,6);
-            
+            var result = solution.NextGreaterElement(nums1,nums2);
 
             #region End Timer
             timer.Stop();
