@@ -11,9 +11,10 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = "tmmzuxt";
+            var input = 30;
 
-            var result = solution.LengthOfLongestSubstring(input);
+            var result = solution.CountAndSay(input);
+            
 
             #region End Timer
             timer.Stop();

@@ -12,6 +12,7 @@ Python environment: Python 3.6
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|Easy|[Accepted](/CSharp/Solutions/14.cs)|Pending|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/)|Medium|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|[Time Limit Exceeded](/CSharp/Solutions/119.cs)|Pending|
@@ -20,6 +21,7 @@ Python environment: Python 3.6
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Easy|[Accepted](/CSharp/Solutions/155.cs)|Pending|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/)|Easy|[Accepted](/CSharp/Solutions/204.cs)|Pending|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/208.cs)|Pending|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|Easy|[Accepted](/CSharp/Solutions/263.cs)|Pending|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
