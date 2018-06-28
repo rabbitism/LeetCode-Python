@@ -11,9 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = 60;
+            var input = "5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w5F3Z-2e-9-w";
 
-            var result = solution.CountAndSay(input);
+            var result = solution.LicenseKeyFormatting(input,6);
             
 
             #region End Timer

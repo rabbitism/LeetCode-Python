@@ -28,6 +28,7 @@ Python environment: Python 3.6
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|Medium|[Accepted](/CSharp/Solutions/462.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|Easy|[Accepted](/CSharp/Solutions/482.cs)|Pending|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|Easy|[Accepted](/CSharp/Solutions/492.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
