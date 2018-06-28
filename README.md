@@ -25,7 +25,7 @@ Python environment: Python 3.6
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
-|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Hard|[Accepted](/CSharp/Solutions/413.cs)|Pending|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|[Accepted](/CSharp/Solutions/413.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|Medium|[Accepted](/CSharp/Solutions/462.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
@@ -38,6 +38,7 @@ Python environment: Python 3.6
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/728.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[Time Limit Exceede](/CSharp/Solutions/739.cs)|Pending|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[Accepted](/CSharp/Solutions/771.cs)|Pending|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/779.cs)|Pending|
