@@ -88,5 +88,20 @@ namespace CSharp
             Console.WriteLine(num);
         }
 
+        public static void Print(ListNode node){
+            if(node==null){
+                Console.WriteLine("Null head");
+            }
+            else{
+                Console.Write("Start->");
+                var probe = node;
+                while(probe!=null){
+                    Console.Write(probe.val+"->");
+                    probe = probe.next;
+                }
+                Console.Write("End"+"\n");
+            }
+        }
+
     }
 }
