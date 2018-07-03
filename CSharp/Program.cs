@@ -11,9 +11,10 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input = "tree";
+            var input1 = LinkedListGenerator.ArrayToLinkedList(new int[]{1,1,1,1,1,1,1});
+            Printer.Print(input1);
 
-            var result = solution.FrequencySort(input);
+            var result = solution.DeleteDuplicates(input1);
 
             #region End Timer
             timer.Stop();
