@@ -11,10 +11,11 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input1 = LinkedListGenerator.ArrayToLinkedList(new int[]{1,1,1,1,1,1,1});
+            var input1 = LinkedListGenerator.ArrayToLinkedList(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
+            var input2 = new int[]{0,1,3};
             Printer.Print(input1);
 
-            var result = solution.DeleteDuplicates(input1);
+            var result = solution.SplitListToParts(input1,3);
 
             #region End Timer
             timer.Stop();
