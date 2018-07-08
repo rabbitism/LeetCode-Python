@@ -11,10 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var nums1 = new int[]{1,3,5,2,4};
-            var nums2 = new int[]{6,5,4,3,2,1,7};
+            var nums1 = new int[][]{new int[]{1,2,3},new int[]{4,5,6},new int[]{7,8,9}};
 
-            var result = solution.NextGreaterElement(nums1,nums2);
+            var result = solution.Transpose(nums1);
 
             #region End Timer
             timer.Stop();
