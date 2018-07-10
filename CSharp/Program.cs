@@ -11,11 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var input1 = LinkedListGenerator.ArrayToLinkedList(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
-            var input2 = new int[]{0,1,3};
-            Printer.Print(input1);
+            var nums1 = new int[][]{new int[]{1,2,3},new int[]{4,5,6},new int[]{7,8,9}};
 
-            var result = solution.SplitListToParts(input1,3);
+            var result = solution.Transpose(nums1);
 
             #region End Timer
             timer.Stop();

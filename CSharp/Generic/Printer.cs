@@ -64,7 +64,7 @@ namespace CSharp
             }
             else{
                 foreach(T item in array){
-                    Console.WriteLine(item);
+                    Printer.Print(item);
                 }
             }
             
@@ -81,6 +81,15 @@ namespace CSharp
                     }
                     Console.Write("\n");
                 }
+            }
+        }
+
+        public static void Print<T>(T[][] matrix){
+            for(int i = 0; i< matrix.Length; i++){
+                for(int j = 0; j<matrix[0].Length; j++){
+                    Console.Write(matrix[i][j]+"\t");
+                }
+                Console.Write("\n");
             }
         }
 
