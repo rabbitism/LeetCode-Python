@@ -15,9 +15,11 @@ Python environment: Python 3.6
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Medium|[Accepted](/CSharp/Solutions/19.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
+|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|Medium|[Accepted](/CSharp/Solutions/63.cs)|Pending|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|[Time Limit Exceeded](/CSharp/Solutions/119.cs)|Pending|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|Easy|[Accepted](/CSharp/Solutions/121.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|Easy|[Accepted](/CSharp/Solutions/137.cs)|Pending|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Easy|[Accepted](/CSharp/Solutions/155.cs)|Pending|
@@ -42,11 +44,14 @@ Python environment: Python 3.6
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/728.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[Time Limit Exceede](/CSharp/Solutions/739.cs)|Pending|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[Accepted](/CSharp/Solutions/766.cs)|Pending|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[Accepted](/CSharp/Solutions/771.cs)|Pending|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/779.cs)|Pending|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|Easy|[Accepted](/CSharp/Solutions/804.cs)|Pending|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|Medium|[Accepted](/CSharp/Solutions/807.cs)|Pending|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|Medium|[Accepted](/CSharp/Solutions/817.cs)|Pending|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
