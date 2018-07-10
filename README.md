@@ -60,3 +60,4 @@ Python environment: Python 3.6
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)|Easy|[Accepted](/CSharp/Solutions/830.cs)|Pending|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|Easy|[Accepted](/CSharp/Solutions/849.cs)|Pending|
