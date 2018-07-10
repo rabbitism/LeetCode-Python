@@ -11,7 +11,6 @@ public partial class Solution {
             if(i==bits.Length-1) return true;
             if(i==bits.Length) return false;
         }
-        return true;
         
     }
 }

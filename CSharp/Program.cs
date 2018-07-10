@@ -11,9 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var nums1 = new int[][]{new int[]{1,2,3},new int[]{4,5,6},new int[]{7,8,9}};
+            var nums1 = "aaa";
 
-            var result = solution.Transpose(nums1);
+            var result = solution.LargeGroupPositions(nums1);
 
             #region End Timer
             timer.Stop();
