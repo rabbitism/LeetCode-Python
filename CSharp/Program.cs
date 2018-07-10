@@ -13,7 +13,7 @@ namespace CSharp
             timer.Start();
             var nums1 = "aaa";
 
-            var result = solution.LargeGroupPositions(nums1);
+            var result = solution.Generate(3);
 
             #region End Timer
             timer.Stop();

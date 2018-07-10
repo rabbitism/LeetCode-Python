@@ -17,8 +17,10 @@ Python environment: Python 3.6
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|Medium|[Accepted](/CSharp/Solutions/63.cs)|Pending|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
+|066|[Plus One](https://leetcode.com/problems/plus-one/description/)|Easy|[Accepted](/CSharp/Solutions/66.cs)|Pending|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Easy|[Accepted](/CSharp/Solutions/69.cs)|Pending|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|[Time Limit Exceeded](/CSharp/Solutions/119.cs)|Pending|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|Easy|[Accepted](/CSharp/Solutions/118.cs)|Pending|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|Easy|[Accepted](/CSharp/Solutions/119.cs)|Pending|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|Easy|[Accepted](/CSharp/Solutions/121.cs)|Pending|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)|Hard|[Accepted](/CSharp/Solutions/128.cs)|Pending|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|Easy|[Accepted](/CSharp/Solutions/137.cs)|Pending|
