@@ -35,18 +35,20 @@ Python environment: Python 3.6
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|[Accepted](/CSharp/Solutions/413.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
-|432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|Medium|[Accepted](/CSharp/Solutions/442.cs)|Pending|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/448.cs)|Pending|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium|[Accepted](/CSharp/Solutions/451.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|Easy|[Accepted](/CSharp/Solutions/482.cs)|Pending|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|Easy|[Accepted](/CSharp/Solutions/492.cs)|Pending|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[Accepted](/CSharp/Solutions/496.cs)|Pending|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/532.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|Easy|[Accepted](/CSharp/Solutions/665.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/697.cs)|Pending|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|
@@ -61,4 +63,5 @@ Python environment: Python 3.6
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)|Easy|[Accepted](/CSharp/Solutions/830.cs)|Pending|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)|Easy|[Accepted](/CSharp/Solutions/840.cs)|Pending|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|Easy|[Accepted](/CSharp/Solutions/849.cs)|Pending|

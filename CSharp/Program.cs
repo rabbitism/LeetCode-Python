@@ -11,9 +11,9 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var nums1 = new int[]{1,0,0,0,1};
+            var nums1 = new int[]{-1,4,2,3};
 
-            var result = solution.MaxDistToClosest(nums1);
+            var result = solution.CheckPossibility(nums1);
 
             #region End Timer
             timer.Stop();
