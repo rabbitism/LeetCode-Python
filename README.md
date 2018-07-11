@@ -15,6 +15,8 @@ Python environment: Python 3.6
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Medium|[Accepted](/CSharp/Solutions/19.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
+|048|[~~](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|Medium|[Accepted](/CSharp/Solutions/62.cs)|Pending|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|Medium|[Accepted](/CSharp/Solutions/63.cs)|Pending|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|Easy|[Accepted](/CSharp/Solutions/66.cs)|Pending|
@@ -49,6 +51,7 @@ Python environment: Python 3.6
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|Easy|[Accepted](/CSharp/Solutions/665.cs)|Pending|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/)|Medium|[Accepted](/CSharp/Solutions/667.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/697.cs)|Pending|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|

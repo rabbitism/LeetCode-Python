@@ -13,7 +13,7 @@ namespace CSharp
             timer.Start();
             var nums1 = new int[]{-1,4,2,3};
 
-            var result = solution.CheckPossibility(nums1);
+            var result = solution.ConstructArray(9,8);
 
             #region End Timer
             timer.Stop();

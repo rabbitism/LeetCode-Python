@@ -64,7 +64,7 @@ namespace CSharp
             }
             else{
                 foreach(T item in array){
-                    Printer.Print(item);
+                    Console.Write(item+"\t");
                 }
             }
             
