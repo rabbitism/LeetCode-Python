@@ -11,9 +11,11 @@ namespace CSharp
             Solution solution = new Solution();
             Timer timer = new Timer();
             timer.Start();
-            var nums1 = new int[]{1,0,0,0,1};
 
-            var result = solution.MaxDistToClosest(nums1);
+            var nums1 = new int[]{73, 74, 75, 71, 69, 72, 76, 73};
+
+
+            var result = solution.DailyTemperatures_2(nums1);
 
             #region End Timer
             timer.Stop();

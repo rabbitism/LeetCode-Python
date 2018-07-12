@@ -30,18 +30,22 @@ Python environment: Python 3.6
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/208.cs)|Pending|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|Easy|[Accepted](/CSharp/Solutions/234.cs)|Pending|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|Easy|[Accepted](/CSharp/Solutions/263.cs)|Pending|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|Easy|[Accepted](/CSharp/Solutions/290.cs)|Pending|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|[Accepted](/CSharp/Solutions/413.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)|Hard|[Accepted](/CSharp/Solutions/432.cs)|Pending|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/)|Easy|[Accepted](/CSharp/Solutions/447.cs)|Pending|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/448.cs)|Pending|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium|[Accepted](/CSharp/Solutions/451.cs)|Pending|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/467.cs)|Pending|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|Easy|[Accepted](/CSharp/Solutions/482.cs)|Pending|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|Easy|[Accepted](/CSharp/Solutions/492.cs)|Pending|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[Accepted](/CSharp/Solutions/496.cs)|Pending|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|Easy|[Accepted](/CSharp/Solutions/500.cs)|Pending|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|Easy|[Accepted](/CSharp/Solutions/575.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
@@ -57,6 +61,7 @@ Python environment: Python 3.6
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/779.cs)|Pending|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|Easy|[Accepted](/CSharp/Solutions/804.cs)|Pending|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)|Medium|[Accepted](/CSharp/Solutions/807.cs)|Pending|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|Easy|[Accepted](/CSharp/Solutions/811.cs)|Pending|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|Medium|[Accepted](/CSharp/Solutions/817.cs)|Pending|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)|Easy|[Accepted](/CSharp/Solutions/830.cs)|Pending|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|

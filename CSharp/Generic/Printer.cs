@@ -64,9 +64,10 @@ namespace CSharp
             }
             else{
                 foreach(T item in array){
-                    Printer.Print(item);
+                    Console.Write(item+"\t");
                 }
             }
+            Console.Write("\n");
             
         }
 
@@ -110,6 +111,18 @@ namespace CSharp
                 }
                 Console.Write("End"+"\n");
             }
+        }
+
+        public static void Print<T>(Stack<T> stack){
+            if(stack==null || stack.Count==0){
+                Console.WriteLine("Empty Stack");    
+            }
+            else{
+                foreach(T item in stack){
+                    Console.Write(item+"~");
+                }
+            }
+            Console.Write("\n");
         }
 
     }

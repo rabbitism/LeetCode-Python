@@ -26,9 +26,18 @@ namespace CSharp{
         }
 
         public int[] DailyTemperatures_2(int[] temperatures) {
-
-            return null;
-
+            Stack<int> stack = new Stack<int>();
+            int[] result = new int[temperatures.Length];
+        
+            for( int i = temperatures.Length-1; i>=0; i--){
+                while(stack.Count>0 && temperatures[i]>=temperatures[stack.Peek()]){
+                    stack.Pop();
+                    Printer.Print(stack);
+                }
+                result[i] = stack.Count==0?0:stack.Peek()-i;
+                stack.Push(i);
+            }
+            return result;
         }
     }
 }
