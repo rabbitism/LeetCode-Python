@@ -15,6 +15,8 @@ Python environment: Python 3.6
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Medium|[Accepted](/CSharp/Solutions/19.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
+|048|[~~](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|Medium|[Accepted](/CSharp/Solutions/62.cs)|Pending|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|Medium|[Accepted](/CSharp/Solutions/63.cs)|Pending|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|[Accepted](/CSharp/Solutions/64.cs)|Pending|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|Easy|[Accepted](/CSharp/Solutions/66.cs)|Pending|
@@ -46,11 +48,14 @@ Python environment: Python 3.6
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[Accepted](/CSharp/Solutions/496.cs)|Pending|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|Easy|[Accepted](/CSharp/Solutions/500.cs)|Pending|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|Easy|[Accepted](/CSharp/Solutions/575.cs)|Pending|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/532.cs)|Pending|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Easy|[Accepted](/CSharp/Solutions/594.cs)|Pending|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)|Easy|[Accepted](/CSharp/Solutions/599.cs)|Pending|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/633.cs)|Pending|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|Easy|[Accepted](/CSharp/Solutions/645.cs)|Pending|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|Easy|[Accepted](/CSharp/Solutions/665.cs)|Pending|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/)|Medium|[Accepted](/CSharp/Solutions/667.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/697.cs)|Pending|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|
@@ -66,4 +71,5 @@ Python environment: Python 3.6
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)|Easy|[Accepted](/CSharp/Solutions/830.cs)|Pending|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)|Easy|[Accepted](/CSharp/Solutions/840.cs)|Pending|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|Easy|[Accepted](/CSharp/Solutions/849.cs)|Pending|
