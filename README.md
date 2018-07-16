@@ -34,6 +34,7 @@ Python environment: Python 3.6
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|Easy|[Accepted](/CSharp/Solutions/263.cs)|Pending|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/)|Medium|[Accepted](/CSharp/Solutions/274.cs)|Pending|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|Easy|[Accepted](/CSharp/Solutions/290.cs)|Pending|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)|Medium|[Accepted](/CSharp/Solutions/299.cs)|Pending|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|Medium|[Accepted](/CSharp/Solutions/303.cs)|Pending|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[Accepted](/CSharp/Solutions/347.cs)|Pending|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Easy|[Accepted](/CSharp/Solutions/383.cs)|Pending|
@@ -58,6 +59,7 @@ Python environment: Python 3.6
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|[Accepted](/CSharp/Solutions/650.cs)|Pending|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|Easy|[Accepted](/CSharp/Solutions/665.cs)|Pending|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/)|Medium|[Accepted](/CSharp/Solutions/667.cs)|Pending|
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)|Medium|[Accepted](/CSharp/Solutions/692.cs)|Pending|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)|Easy|[Accepted](/CSharp/Solutions/696.cs)|Pending|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)|Easy|[Accepted](/CSharp/Solutions/697.cs)|Pending|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|

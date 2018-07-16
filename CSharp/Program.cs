@@ -12,10 +12,10 @@ namespace CSharp
             Timer timer = new Timer();
             timer.Start();
 
-            var nums1 = new int[]{73, 74, 75, 71, 69, 72, 76, 73};
+            var nums1 = new string[]{"i", "love", "leetcode", "i", "love", "coding"};
 
 
-            var result = solution.DailyTemperatures_2(nums1);
+            var result = solution.TopKFrequent(nums1,2);
 
             #region End Timer
             timer.Stop();
