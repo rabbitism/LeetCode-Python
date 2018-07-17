@@ -9,7 +9,7 @@ public partial class Solution {
         Dictionary<string,int> dict = new Dictionary<string, int>();
         foreach(string s in cpdomains){
             string[] sArray = s.Split(' ');
-            int count = Convert.ToInt32(sArray[0]);
+            int count = System.Convert.ToInt32(sArray[0]); //Since there is another function named Convert, so I add domain name. 
             string[] domainSplit = sArray[1].Split('.');
             if(domainSplit.Length == 2){
                 string domain1 = domainSplit[1];

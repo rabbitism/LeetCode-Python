@@ -12,10 +12,10 @@ namespace CSharp
             Timer timer = new Timer();
             timer.Start();
 
-            var nums1 = new string[]{"i", "love", "leetcode", "i", "love", "coding"};
+            var var1 = "PAYPALISHIRING";
 
 
-            var result = solution.TopKFrequent(nums1,2);
+            var result = solution.Convert(var1,3);
 
             #region End Timer
             timer.Stop();

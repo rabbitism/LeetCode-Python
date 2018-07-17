@@ -13,6 +13,7 @@ Python environment: Python 3.6
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|Easy|[Accepted](/CSharp/Solutions/14.cs)|Pending|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/)|Medium|[Accepted](/CSharp/Solutions/15.cs)|Pending|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Medium|[Accepted](/CSharp/Solutions/19.cs)|Pending|
+|028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|Easy|[Accepted](/CSharp/Solutions/28.cs)|Pending|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[Accepted](/CSharp/Solutions/35.cs)|Pending|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
 |048|[~~](https://leetcode.com/problems/count-and-say/description/)|Easy|[Accepted](/CSharp/Solutions/38.cs)|Pending|
@@ -65,6 +66,7 @@ Python environment: Python 3.6
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|Easy|[Accepted](/CSharp/Solutions/717.cs)|Pending|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|Easy|[Accepted](/CSharp/Solutions/728.cs)|Pending|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[Time Limit Exceede](/CSharp/Solutions/739.cs)|Pending|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/)|Medium|[Accepted](/CSharp/Solutions/763.cs)|Pending|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[Accepted](/CSharp/Solutions/766.cs)|Pending|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[Accepted](/CSharp/Solutions/771.cs)|Pending|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|Medium|[Time Limit Exceeded](/CSharp/Solutions/779.cs)|Pending|
