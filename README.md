@@ -78,4 +78,6 @@ Python environment: Python 3.6
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|Easy|[Accepted](/CSharp/Solutions/832.cs)|Pending|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/)|Easy|[Accepted](/CSharp/Solutions/836.cs)|Pending|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)|Easy|[Accepted](/CSharp/Solutions/840.cs)|Pending|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|Easy|[Accepted](/CSharp/Solutions/844.cs)|Pending|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)|Easy|[Accepted](/CSharp/Solutions/849.cs)|Pending|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|Easy|[Accepted](/CSharp/Solutions/860.cs)|Pending|

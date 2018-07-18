@@ -12,10 +12,10 @@ namespace CSharp
             Timer timer = new Timer();
             timer.Start();
 
-            var var1 = "PAYPALISHIRING";
+            var var1 = new int[]{5,5,5,10,20};
 
 
-            var result = solution.Convert(var1,3);
+            var result = solution.LemonadeChange(var1);
 
             #region End Timer
             timer.Stop();
