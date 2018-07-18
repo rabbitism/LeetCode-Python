@@ -12,10 +12,11 @@ namespace CSharp
             Timer timer = new Timer();
             timer.Start();
 
-            var var1 = new int[]{5,5,5,10,20};
+            var var1 = new int[]{1,2,3};
+            var var2 = new int[]{1,2};
 
 
-            var result = solution.LemonadeChange(var1);
+            var result = solution.FindContentChildren(var1,var2);
 
             #region End Timer
             timer.Stop();
